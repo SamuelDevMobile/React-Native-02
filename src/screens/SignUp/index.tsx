@@ -18,8 +18,8 @@ export default function SignUp() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>FIAP</Text>
-      <Text style={styles.subTitle}>Cadastre-se e embarque nessa!</Text>
+      <Text style={styles.title}>{t('title')}</Text>
+      <Text style={styles.subTitle}>{t('subTitle')}</Text>
       <Formik
         initialValues={initialValues}
         validationSchema={SignUpSchema}
