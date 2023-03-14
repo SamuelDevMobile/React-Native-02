@@ -1,0 +1,45 @@
+{
+  "title": "FIAP",
+  "subTitle": "Educação que transforma!",
+
+  "signIn": {
+    "inputEmail": {
+      "text": "Digite seu e-mail",
+      "error": "Por favor insira um e-mail válido",
+      "required": "Este campo é obrigatório"
+    },
+    "inputPass": {
+      "text": "Digite sua senha",
+      "required": "Este campo é obrigatório"
+    },
+    "signInButton": "Entrar",
+    "goToSignUpButton": "Cadastrar",
+    "loadingText": "Carregando..."
+  },
+
+  "signUp": {
+    "inputName": {
+      "text": "Digite seu nome",
+      "error": "Por favor insira um nome válido",
+      "required": "Este campo é obrigatório"
+    },
+    "inputEmail": {
+      "text": "Digite seu e-mail",
+      "error": "Por favor insira um e-mail válido",
+      "required": "Este campo é obrigatório"
+    },
+    "inputPassword": {
+      "text": "Digite sua senha",
+      "error": "Por favor insira uma senha válida",
+      "required": "Este campo é obrigatório"
+    },
+    "inputRepeatPassword": {
+      "text": "Digite seu e-mail",
+      "error": "Por favor insira um e-mail válido",
+      "required": "Este campo é obrigatório"
+    },
+    "signUpButton": "Entrar",
+    "goToSignUpButton": "Cadastrar",
+    "loadingText": "Carregando..."
+  }
+}

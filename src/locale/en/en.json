@@ -1,0 +1,45 @@
+{
+  "title": "FIAP",
+  "subTitle": "Education that transforms!",
+
+  "signIn": {
+    "inputEmail": {
+      "text": "Enter your email",
+      "error": "Please enter a valid email",
+      "required": "This field is required"
+    },
+    "inputPass": {
+      "text": "Enter your password",
+      "required": "This field is required"
+    },
+    "signInButton": "Sign In",
+    "goToSignUpButton": "Sign Up",
+    "loadingText": "Loading..."
+  },
+
+  "signUp": {
+    "inputName": {
+      "text": "Enter your name",
+      "error": "Please enter a valid name",
+      "required": "This field is required"
+    },
+    "inputEmail": {
+      "text": "Enter your email",
+      "error": "Please enter a valid email",
+      "required": "This field is required"
+    },
+    "inputPassword": {
+      "text": "Enter your password",
+      "error": "Please enter a valid password",
+      "required": "This field is required"
+    },
+    "inputRepeatPassword": {
+      "text": "Enter your password again",
+      "error": "Please enter a valid password",
+      "required": "This field is required"
+    },
+    "signUpButton": "Register",
+    "goToSignUpButton": "Enter with email",
+    "loadingText": "Loading..."
+  }
+}
