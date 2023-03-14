@@ -60,7 +60,11 @@ export default function SignUp() {
             <Button
               type="secondary"
               disabled={isSubmitting}
-              text={isSubmitting ? 'Carregando...' : 'Cadastrar'}
+              text={
+                isSubmitting
+                  ? t('signUp.loadingText')
+                  : t('signUp.signUpButton')
+              }
               onPress={handleSubmit}
             />
             <Button
